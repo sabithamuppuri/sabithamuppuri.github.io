@@ -1,0 +1,23 @@
+title: "Sabitha Muppuri"
+description: "SRE and DevOps Engineer | Cloud Automation | Multi-Cloud Reliability | Open Source Enthusiast"
+baseurl: ""
+url: "https://sabithamuppuri.github.io"
+theme: jekyll-theme-cayman
+author:
+  name: "Sabitha Muppuri"
+  email: "sabitha594@gmail.com"
+  github_username: sabithamuppuri
+  linkedin: "https://www.linkedin.com/in/sabitha-muppuri"
+show_downloads: false
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+navbar:
+  - title: Home
+    url: /
+  - title: Posts
+    url: /pages/posts.html
+  - title: Talks
+    url: /pages/talks.html
+  - title: About
+    url: /pages/about.html
