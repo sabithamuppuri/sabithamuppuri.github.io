@@ -31,7 +31,27 @@ Automation and Reliability Engineering: implementing self-healing systems, workf
   _Showcases automation of service-health intelligence for proactive alerting and resilience._  
 
 - [SecSRE: Bringing Security into the SRE World — USENIX Login::Online](https://www.usenix.org/publications/loginonline/secsre-bringing-security-sre-world)  
-  _Introduces the SecSRE framework combining reliability and security through measurable automation._  
+  _Introduces the SecSRE framework combining reliability and security through measurable automation._ 
+
+- [Vendor Tools & Reliability — Lessons from the 2025 Cloud Outages (DEV)](https://dev.to/smuppuri/vendor-tools-reliability-lessons-from-the-2025-cloud-outages-215o) 
+  _Analysis of evolving outage patterns and vendor-tool reliability gaps._
+
+---
+
+## 🎤 Speaking & Community Engagement  
+- **Emerging Technologies Tech Talk — ACM Fremont Chapter (IBTimes Coverage)**  
+  _Insights on next-wave innovation, cloud resilience, and emerging technology trends._  
+  https://www.ibtimes.com/fremont-acm-chapter-presents-emerging-technologies-tech-talk-deep-dive-next-wave-innovation-3790729  
+
+- **NCWIT (National Center for Women & Information Technology) — Reviewer**  
+  _Served as a reviewer supporting NCWIT programs by evaluating applications and contributions for their national initiatives focused on advancing women in computing._
+  https://ncwit.org
+
+- Active contributor on **DEV**, sharing lessons on:  
+  - Cloud outage patterns  
+  - Vendor-tool ecosystems  
+  - Reliability automation  
+  - Modern SRE practices  
 
 ---
 
