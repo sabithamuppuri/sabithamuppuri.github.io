@@ -19,10 +19,11 @@ Automation and Reliability Engineering: implementing self-healing systems, workf
 
 
 ---
-
 ### 💻 Open-Source Contribution  
 - Contributed to the [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws/pull/44901), improving the provider’s functionality and reliability through community collaboration.  
   _This contribution reflects my commitment to open-source innovation and advancing automation standards across the DevOps ecosystem._
+
+- Contributed to the [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws/pull/45469), enhancing documentation accuracy and strengthening overall provider usability.
 
 ---
 
@@ -35,6 +36,9 @@ Automation and Reliability Engineering: implementing self-healing systems, workf
 
 - [Vendor Tools & Reliability — Lessons from the 2025 Cloud Outages (DEV)](https://dev.to/smuppuri/vendor-tools-reliability-lessons-from-the-2025-cloud-outages-215o) 
   _Analysis of evolving outage patterns and vendor-tool reliability gaps._
+
+- [HashiCorp Incident Management — Palo Alto Networks Live Community](https://live.paloaltonetworks.com/t5/community-blogs/hashicorp-incident-management/ba-p/1242673)  
+  _Covers improving reliability operations through structured incident workflows, standardized remediation practices, and enhanced collaboration for multi-cloud environments._
 
 ---
 
